@@ -1,18 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+
+* {
+    font-family:'Roboto', sans-serif; 
+}
 /* Navigation bar */
 
 
 
-/*container */
-.show-container {
-     ; 
-}
+/*containers */
+
 
 /*News Letter */
-.news-input {
-
 }
 @media(min-width:768px) {
     .news-input{
         width:50%; 
     }
+}
+
+/* Boxes */
+.card {
+    display:flex; 
 }
