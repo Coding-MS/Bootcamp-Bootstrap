@@ -4,7 +4,12 @@
     font-family:'Roboto', sans-serif; 
 }
 /* Navigation bar */
-
+body::before {
+    display:block; 
+    content:''; 
+    height: 60px;
+    
+}
 
 
 /*containers */
