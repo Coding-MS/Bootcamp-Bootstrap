@@ -3,6 +3,10 @@
 * {
     font-family:'Roboto', sans-serif; 
 }
+
+a {
+    
+}
 /* Navigation bar */
 body::before {
     display:block; 
